@@ -1,1 +1,3 @@
 python-docx
+streamlit==0.82.0
+scikit-learn==0.24.2
