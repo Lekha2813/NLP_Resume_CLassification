@@ -1,7 +1,7 @@
 # NLP Resume Classification Project
 
 ## Description
-This project is an NLP-based application designed to classify user-uploaded resumes into categories such as React JS Resume, SQL Developer, PeopleSoft, Workday. It leverages advanced text preprocessing and machine learning techniques to provide real-time classification of resumes.
+This project is an NLP-based application designed to classify user-uploaded resumes into categories such as React JS Developer, SQL Developer, PeopleSoft, Workday. It leverages advanced text preprocessing and machine learning techniques to provide real-time classification of resumes.
 
 ## Features
 - Real-time classification of resumes.
